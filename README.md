@@ -1,6 +1,6 @@
 # Kellekto-Culinary-Design
 
-Some designs I make for Kellekto Culinary (Instagram @kellekto_culinary)
+Some designs I made for Kellekto Culinary (Instagram @kellekto_culinary)
 
 Kellekto Culinary is accepting food orders by the system of Pre-Order in Surabaya, Indonesia
 
